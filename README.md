@@ -163,5 +163,9 @@ Short description: The diamond kata takes as its input a letter, and outputs it 
 Details: https://exercism.org/tracks/python/exercises/diamond
 
 Wordy:
-Parse and evaluate simple math word problems returning the answer as an integer.
+Short description: Parse and evaluate simple math word problems returning the answer as an integer.
 Details: https://exercism.org/tracks/python/exercises/wordy
+
+Eliud's Eggs:
+Short description: Your task is to count the number of 1 bits in the binary representation of a number.
+Details: https://exercism.org/tracks/python/exercises/pop-count
