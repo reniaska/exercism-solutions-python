@@ -1,3 +1,4 @@
+# https://exercism.org/tracks/python/exercises/wordy
 def simple_operation(res, equation_list):
     if '+' in equation_list:
         result = res + int(equation_list[1])
