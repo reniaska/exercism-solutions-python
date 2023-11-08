@@ -169,3 +169,7 @@ Details: https://exercism.org/tracks/python/exercises/wordy
 Eliud's Eggs:
 Short description: Your task is to count the number of 1 bits in the binary representation of a number.
 Details: https://exercism.org/tracks/python/exercises/pop-count
+
+Acronym:
+Short description: Convert a phrase to its acronym.
+Details: https://exercism.org/tracks/python/exercises/acronym
