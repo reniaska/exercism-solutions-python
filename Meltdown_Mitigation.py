@@ -1,6 +1,7 @@
 #https://exercism.org/tracks/python/exercises/meltdown-mitigation
 """Functions to prevent a nuclear meltdown."""
 
+
 def is_criticality_balanced(temperature, neutrons_emitted):
     """Verify criticality is balanced.
 
@@ -14,6 +15,7 @@ def is_criticality_balanced(temperature, neutrons_emitted):
     - The product of temperature and neutrons emitted per second is less than 500000.
     """
     return temperature < 800 and neutrons_emitted > 500 and temperature * neutrons_emitted < 500000
+
 
 def reactor_efficiency(voltage, current, theoretical_max_power):
     """Assess reactor efficiency zone.
@@ -43,6 +45,7 @@ def reactor_efficiency(voltage, current, theoretical_max_power):
     if 60.0 > efficiency_percent >= 30.0:
         return 'red'
     return 'black'
+
 
 def fail_safe(temperature, neutrons_produced_per_second, threshold):
     """Assess and return status code for the reactor.
