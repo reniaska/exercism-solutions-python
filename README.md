@@ -150,8 +150,7 @@ Short description: Given a string containing brackets [], braces {}, parentheses
 Details: https://exercism.org/tracks/python/exercises/matching-brackets
 
 Sublist:
-Short description: Given any two lists A and B, determine if: List A is equal to list B, or
-List A contains list B (A is a superlist of B), or List A is contained by list B (A is a sublist of B), or None of the above is true, thus lists A and B are unequal.
+Short description: Given any two lists A and B, determine if: List A is equal to list B, or List A contains list B (A is a superlist of B), or List A is contained by list B (A is a sublist of B), or None of the above is true, thus lists A and B are unequal.
 Details: https://exercism.org/tracks/python/exercises/sublist
 
 Atbash Cipher:
@@ -173,3 +172,7 @@ Details: https://exercism.org/tracks/python/exercises/pop-count
 Acronym:
 Short description: Convert a phrase to its acronym.
 Details: https://exercism.org/tracks/python/exercises/acronym
+
+Series:
+Short description: Given a string of digits, output all the contiguous substrings of length n in that string in the order that they appear.
+Details: https://exercism.org/tracks/python/exercises/series
