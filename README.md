@@ -186,7 +186,9 @@ Short description: Given a number n, determine what the nth prime is.
 Details: https://exercism.org/tracks/python/exercises/nth-prime
 
 Run-Length Encoding:
-Short description: Implement run-length encoding and decoding.
-
-Run-length encoding (RLE) is a simple form of data compression, where runs (consecutive data elements) are replaced by just one data value and count.
+Short description: Implement run-length encoding and decoding. Run-length encoding (RLE) is a simple form of data compression, where runs (consecutive data elements) are replaced by just one data value and count.
 Details: https://exercism.org/tracks/python/exercises/run-length-encoding
+
+Protein Translation:
+Short description: Translate RNA sequences into proteins. RNA can be broken into three nucleotide sequences called codons, and then translated to a polypeptide.
+Details: https://exercism.org/tracks/python/exercises/protein-translation
