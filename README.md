@@ -184,3 +184,9 @@ Details: https://exercism.org/tracks/python/exercises/prime-factors
 Nth Prime:
 Short description: Given a number n, determine what the nth prime is.
 Details: https://exercism.org/tracks/python/exercises/nth-prime
+
+Run-Length Encoding:
+Short description: Implement run-length encoding and decoding.
+
+Run-length encoding (RLE) is a simple form of data compression, where runs (consecutive data elements) are replaced by just one data value and count.
+Details: https://exercism.org/tracks/python/exercises/run-length-encoding
