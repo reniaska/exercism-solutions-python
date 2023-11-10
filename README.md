@@ -180,3 +180,7 @@ Details: https://exercism.org/tracks/python/exercises/series
 Prime Factors:
 Short description: Compute the prime factors of a given natural number.
 Details: https://exercism.org/tracks/python/exercises/prime-factors
+
+Nth Prime:
+Short description: Given a number n, determine what the nth prime is.
+Details: https://exercism.org/tracks/python/exercises/nth-prime
