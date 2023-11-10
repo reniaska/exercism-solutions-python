@@ -176,3 +176,7 @@ Details: https://exercism.org/tracks/python/exercises/acronym
 Series:
 Short description: Given a string of digits, output all the contiguous substrings of length n in that string in the order that they appear.
 Details: https://exercism.org/tracks/python/exercises/series
+
+Prime Factors:
+Short description: Compute the prime factors of a given natural number.
+Details: https://exercism.org/tracks/python/exercises/prime-factors
