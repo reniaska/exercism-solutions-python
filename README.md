@@ -192,3 +192,7 @@ Details: https://exercism.org/tracks/python/exercises/run-length-encoding
 Protein Translation:
 Short description: Translate RNA sequences into proteins. RNA can be broken into three nucleotide sequences called codons, and then translated to a polypeptide.
 Details: https://exercism.org/tracks/python/exercises/protein-translation
+
+Anagram:
+Short description: Given a target word and a set of candidate words, this exercise requests the anagram set: the subset of the candidates that are anagrams of the target.
+Details: https://exercism.org/tracks/python/exercises/anagram
