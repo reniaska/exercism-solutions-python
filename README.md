@@ -204,3 +204,7 @@ Details: https://exercism.org/tracks/python/exercises/list-ops
 Crypto Square:
 Short description: Implement the classic method for composing secret messages called a square code. Given an English text, output the encoded version of that text.
 Details: https://exercism.org/tracks/python/exercises/crypto-square
+
+Flatten Array:
+Short description: Take a nested list and return a single flattened list with all values except nil/null. The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure.
+Details: https://exercism.org/tracks/python/exercises/flatten-array
