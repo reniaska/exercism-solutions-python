@@ -200,3 +200,7 @@ Details: https://exercism.org/tracks/python/exercises/anagram
 List Ops:
 Short description: Implement basic list operations. In functional languages list operations like length, map, and reduce are very common. Implement a series of basic list operations, without using existing functions.
 Details: https://exercism.org/tracks/python/exercises/list-ops
+
+Crypto Square:
+Short description: Implement the classic method for composing secret messages called a square code. Given an English text, output the encoded version of that text.
+Details: https://exercism.org/tracks/python/exercises/crypto-square
