@@ -196,3 +196,7 @@ Details: https://exercism.org/tracks/python/exercises/protein-translation
 Anagram:
 Short description: Given a target word and a set of candidate words, this exercise requests the anagram set: the subset of the candidates that are anagrams of the target.
 Details: https://exercism.org/tracks/python/exercises/anagram
+
+List Ops:
+Short description: Implement basic list operations. In functional languages list operations like length, map, and reduce are very common. Implement a series of basic list operations, without using existing functions.
+Details: https://exercism.org/tracks/python/exercises/list-ops
