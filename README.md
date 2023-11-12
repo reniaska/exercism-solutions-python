@@ -208,3 +208,7 @@ Details: https://exercism.org/tracks/python/exercises/crypto-square
 Flatten Array:
 Short description: Take a nested list and return a single flattened list with all values except nil/null. The challenge is to write a function that accepts an arbitrarily-deep nested list-like structure.
 Details: https://exercism.org/tracks/python/exercises/flatten-array
+
+House:
+Short description: The process of placing a phrase of clause within another phrase of clause is called embedding. It is through the processes of recursion and embedding that we are able to take a finite number of forms (words and phrases) and construct an infinite number of expressions. Recite the nursery rhyme 'This is the House that Jack Built'.
+Details: https://exercism.org/tracks/python/exercises/house
