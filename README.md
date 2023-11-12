@@ -212,3 +212,7 @@ Details: https://exercism.org/tracks/python/exercises/flatten-array
 House:
 Short description: The process of placing a phrase of clause within another phrase of clause is called embedding. It is through the processes of recursion and embedding that we are able to take a finite number of forms (words and phrases) and construct an infinite number of expressions. Recite the nursery rhyme 'This is the House that Jack Built'.
 Details: https://exercism.org/tracks/python/exercises/house
+
+OCR Numbers:
+Short description: Given a 3 x 4 grid of pipes, underscores, and spaces, determine which number is represented, or whether it is garbled. Handle multiple numbers, one per line. When converting several lines, join the lines with commas.
+Details: https://exercism.org/tracks/python/exercises/ocr-numbers
