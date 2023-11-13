@@ -224,3 +224,7 @@ Details: https://exercism.org/tracks/python/exercises/twelve-days
 Roman Numerals:
 Short description: Write a function to convert from normal numbers to Roman Numerals.
 Details: https://exercism.org/tracks/python/exercises/roman-numerals
+
+Inventory Management:
+Short description: In this exercise, you will be managing an inventory system. The inventory should be organized by the item name and it should keep track of the number of items available. You will have to handle adding items to an inventory. You will also have to handle deleting items from an inventory.
+Details: https://exercism.org/tracks/python/exercises/inventory-management
