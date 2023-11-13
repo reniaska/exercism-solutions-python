@@ -216,3 +216,7 @@ Details: https://exercism.org/tracks/python/exercises/house
 OCR Numbers:
 Short description: Given a 3 x 4 grid of pipes, underscores, and spaces, determine which number is represented, or whether it is garbled. Handle multiple numbers, one per line. When converting several lines, join the lines with commas.
 Details: https://exercism.org/tracks/python/exercises/ocr-numbers
+
+Twelve Days:
+Short description: Your task in this exercise is to write code that returns the lyrics of the song: "The Twelve Days of Christmas." This song is a type of cumulative song, where each new verse builds on the verse that comes before it. For more of a programming challenge, consider assembling each verse from its parts.
+Details: https://exercism.org/tracks/python/exercises/twelve-days
