@@ -236,3 +236,11 @@ Details: https://exercism.org/tracks/python/exercises/scrabble-score
 Bottle Song:
 Short description: Recite the lyrics to that popular children's repetitive song: Ten Green Bottles.
 Details: https://exercism.org/tracks/python/exercises/bottle-song
+
+ETL:
+Short description: Your task is to change the data format of letters and their point values in the game. This needs to be changed to store each individual letter with its score in a one-to-one mapping.
+Details: https://exercism.org/tracks/python/exercises/etl
+
+Space Age:
+Short description: Given an age in seconds, calculate how old someone would be on specified planet.
+Details: https://exercism.org/tracks/python/exercises/space-age
