@@ -244,3 +244,7 @@ Details: https://exercism.org/tracks/python/exercises/etl
 Space Age:
 Short description: Given an age in seconds, calculate how old someone would be on specified planet.
 Details: https://exercism.org/tracks/python/exercises/space-age
+
+Word Count:
+Short description: Your task is to count how many times each word occurs in a subtitle of a drama. The subtitles from these dramas use only ASCII characters. The characters often speak in casual English, using contractions like they're or it's - considered a single word. Numbers are considered words.
+Details: https://exercism.org/tracks/python/exercises/word-count
