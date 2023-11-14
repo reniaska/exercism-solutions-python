@@ -232,3 +232,7 @@ Details: https://exercism.org/tracks/python/exercises/inventory-management
 Scrabble Score:
 Short description: Given a word, compute the Scrabble score for that word.
 Details: https://exercism.org/tracks/python/exercises/scrabble-score
+
+Bottle Song:
+Short description: Recite the lyrics to that popular children's repetitive song: Ten Green Bottles.
+Details: https://exercism.org/tracks/python/exercises/bottle-song
