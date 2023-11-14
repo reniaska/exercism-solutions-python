@@ -228,3 +228,7 @@ Details: https://exercism.org/tracks/python/exercises/roman-numerals
 Inventory Management:
 Short description: In this exercise, you will be managing an inventory system. The inventory should be organized by the item name and it should keep track of the number of items available. You will have to handle adding items to an inventory. You will also have to handle deleting items from an inventory.
 Details: https://exercism.org/tracks/python/exercises/inventory-management
+
+Scrabble Score:
+Short description: Given a word, compute the Scrabble score for that word.
+Details: https://exercism.org/tracks/python/exercises/scrabble-score
