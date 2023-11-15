@@ -248,3 +248,7 @@ Details: https://exercism.org/tracks/python/exercises/space-age
 Word Count:
 Short description: Your task is to count how many times each word occurs in a subtitle of a drama. The subtitles from these dramas use only ASCII characters. The characters often speak in casual English, using contractions like they're or it's - considered a single word. Numbers are considered words.
 Details: https://exercism.org/tracks/python/exercises/word-count
+
+Locomotive Engineer:
+Short description: Your friend Linus is a Locomotive Engineer who drives cargo trains between cities. They would like to enlist your programming help organizing train details and correcting mistakes in route data. We would like you to practice packing, unpacking, and multiple assignment in solving each of the tasks below.
+Details: https://exercism.org/tracks/python/exercises/locomotive-engineer
