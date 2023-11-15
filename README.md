@@ -256,3 +256,7 @@ Details: https://exercism.org/tracks/python/exercises/locomotive-engineer
 Proverb:
 Short description: For want of a horseshoe nail, a kingdom was lost, or so the saying goes. Given a list of inputs, generate the relevant proverb. Note that the list of inputs may vary; your solution should be able to handle lists of arbitrary length and content. No line of the output text should be a static, unchanging string; all should vary according to the input given.
 Details: https://exercism.org/tracks/python/exercises/proverb
+
+Say:
+Short description: Given a number from 0 to 999,999,999,999, spell out that number in English.
+Details: https://exercism.org/tracks/python/exercises/say
