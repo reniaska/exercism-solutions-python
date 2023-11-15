@@ -252,3 +252,7 @@ Details: https://exercism.org/tracks/python/exercises/word-count
 Locomotive Engineer:
 Short description: Your friend Linus is a Locomotive Engineer who drives cargo trains between cities. They would like to enlist your programming help organizing train details and correcting mistakes in route data. We would like you to practice packing, unpacking, and multiple assignment in solving each of the tasks below.
 Details: https://exercism.org/tracks/python/exercises/locomotive-engineer
+
+Proverb:
+Short description: For want of a horseshoe nail, a kingdom was lost, or so the saying goes. Given a list of inputs, generate the relevant proverb. Note that the list of inputs may vary; your solution should be able to handle lists of arbitrary length and content. No line of the output text should be a static, unchanging string; all should vary according to the input given.
+Details: https://exercism.org/tracks/python/exercises/proverb
