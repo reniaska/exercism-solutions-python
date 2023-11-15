@@ -260,3 +260,11 @@ Details: https://exercism.org/tracks/python/exercises/proverb
 Say:
 Short description: Given a number from 0 to 999,999,999,999, spell out that number in English.
 Details: https://exercism.org/tracks/python/exercises/say
+
+Cater Waiter:
+Short description: You and your business partners operate a small catering company. You've just agreed to run an event for a local cooking club that features "club favorite" dishes. The club is inexperienced in hosting large events, and needs help with organizing, shopping, prepping and serving. You've decided to write some small Python scripts to speed the whole planning process along.
+Details: https://exercism.org/tracks/python/exercises/cater-waiter
+
+Transpose:
+Short description: 
+Details: 
