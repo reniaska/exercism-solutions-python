@@ -330,3 +330,8 @@ Details: https://exercism.org/tracks/python/exercises/say
 Short description: You and your business partners operate a small catering company. You've just agreed to run an event for a local cooking club that features "club favorite" dishes. The club is inexperienced in hosting large events, and needs help with organizing, shopping, prepping and serving. You've decided to write some small Python scripts to speed the whole planning process along.
 
 Details: https://exercism.org/tracks/python/exercises/cater-waiter
+
+## Sum of Multiples:
+Short description: You work for a company that makes an online, fantasy-survival game. Your task is to write the code that calculates the energy points that get awarded to players when they complete a level. The points awarded depend on two things: The level (a number) that the player completed and the base value of each magical item collected by the player during that level.
+
+Details: https://exercism.org/tracks/python/exercises/sum-of-multiples
