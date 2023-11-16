@@ -1,59 +1,73 @@
 # exercism-solutions-python
 Solutions for exercises on Exercism coding platform
 
-Guido's Gorgeous Lasagna:
+## Guido's Gorgeous Lasagna:
 Short description: Write some code to help you cook a gorgeous lasagna from your favorite cookbook. You have five tasks, all related to cooking recipe.
+
 Details: https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna
 
-Ghost Gobble Arcade Game:
+## Ghost Gobble Arcade Game:
+
 Short description: Implement some rules from Pac-Man, the classic 1980s-era arcade-game. You have four rules to implement, all related to the game states.
 Details: https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game
 
-Currency Exchange:
+__Currency Exchange:__
+
 Short description: Your friend Chandler plans to visit exotic countries all around the world. Sadly, Chandler's math skills aren't good. He's pretty worried about being scammed by currency exchanges during his trip - and he wants you to make a currency calculator for him.
 Details: https://exercism.org/tracks/python/exercises/currency-exchange
 
-Meltdown Mitigation:
+__Meltdown Mitigation:__
+
 Short description: Develop a simple control system for a nuclear reactor. For a reactor to produce the power it must be in a state of criticality. If the reactor is in a state less than criticality, it can become damaged. If the reactor state goes beyond criticality, it can overload and result in a meltdown. We want to mitigate the chances of meltdown and correctly manage reactor state.
 Details: https://exercism.org/tracks/python/exercises/meltdown-mitigation
 
-Black Jack:
+__Black Jack:__
+
 Short description: Implement some rules of Blackjack, such as the way the game is played and scored.
 Details: https://exercism.org/tracks/python/exercises/black-jack
 
-Little Sister's Essay:
+__Little Sister's Essay:__
+
 Short description: In this exercise you are helping your younger sister edit her paper for school. The teacher is looking for correct punctuation, grammar, and excellent word choice. You have four tasks to clean up and modify strings.
 Details: https://exercism.org/tracks/python/exercises/little-sisters-essay
 
-Little Sister's Vocabulary:
+__Little Sister's Vocabulary:__
+
 Short description: You are helping your younger sister with her English vocabulary homework. Her class is learning to create new words by adding prefixes and suffixes. Given a set of words, the teacher is looking for correctly transformed words with correct spelling by adding the prefix to the beginning or the suffix to the ending. There's four activities in the assignment, each with a set of text or words to work with.
 Details: https://exercism.org/tracks/python/exercises/little-sisters-vocab
 
-Card Games:
+__Card Games:__
+
 Short description: Elyse is really looking forward to playing some poker (and other card games) during her upcoming trip to Vegas. Being a big fan of "self-tracking" she wants to put together some small functions that will help her with tracking tasks and has asked for your help thinking them through.
 Details: https://exercism.org/tracks/python/exercises/card-games
 
-Chaitana's Colossal Coaster:
+__Chaitana's Colossal Coaster:__
+
 Short description: Chaitana owns a very popular theme park. She only has The Biggest Roller Coaster in the World(TM). People travel from all over the world and stand in line for hours for the opportunity to ride Chaitana's hypercoaster. There are two queues for this ride, each represented as a list: Normal Queue, Express Queue (also known as the Fast-track) - where people pay extra for priority access. You have been asked to write some code to better manage the guests at the park.
 Details: https://exercism.org/tracks/python/exercises/chaitanas-colossal-coaster
 
-Making the Grade:
+__Making the Grade:__
+
 Short description: You're a teaching assistant correcting student exams. Keeping track of results manually is getting both tedious and mistake-prone. You decide to make things a little more interesting by putting together some functions to count and calculate results for the class.
 Details: https://exercism.org/tracks/python/exercises/making-the-grade
 
-Tisbury Treasure Hunt:
+__Tisbury Treasure Hunt:__
+
 Short description: Azara and Rui are teammates competing in a pirate-themed treasure hunt. One has a list of treasures with map coordinates, the other a list of location names with map coordinates. They've also been given blank maps with a starting place marked YOU ARE HERE. But Azara's coordinates appear to be formatted and sorted differently from Rui's, and they have to keep looking from one list to the other to figure out which treasures go with which locations. Being budding pythonistas, they have come to you for help in writing a small program (a set of functions, really) to better organize their hunt information.
 Details: https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt
 
-Leap:
+__Leap:__
+
 Short description: Given a year, report if it is a leap year. But there are some rules for leap year in the Gregorian calendar occurs: on every year that is evenly divisible by 4, except every year that is evenly divisible by 100, unless the year is also evenly divisible by 400.
 Details: https://exercism.org/tracks/python/exercises/leap
 
-Triangle:
+__Triangle:__
+
 Short description: Determine if a triangle is equilateral, isosceles, or scalene.
 Details: https://exercism.org/tracks/python/exercises/triangle
 
-Grains:
+__Grains:__
+
 Short description: Calculate the number of grains of wheat on a chessboard given that the number on each square doubles. There once was a wise servant who saved the life of a prince. The king promised to pay whatever the servant could dream up. Knowing that the king loved chess, the servant told the king he would like to have grains of wheat. One grain on the first square of a chess board, with the number of grains doubling on each successive square.
 Details: https://exercism.org/tracks/python/exercises/grains
 
