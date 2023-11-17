@@ -362,6 +362,6 @@ Short description: Given an input text output it transposed. If the input has ro
 Details: https://exercism.org/tracks/python/exercises/transpose
 
 ## Ellen's Alien Game
-Short description: 
+Short description: Ellen is making a game where the player has to fight aliens. To Ellen's delight, you have offered to help and she has given you the task of programming the aliens that the player has to fight.
 
-Details: 
+Details: https://exercism.org/tracks/python/exercises/ellens-alien-game
