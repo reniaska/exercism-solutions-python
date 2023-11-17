@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/inventory-management
+# https://exercism.org/tracks/python/exercises/inventory-management
 """Functions to keep track and alter inventory."""
 
 

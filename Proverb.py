@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/proverb
+# https://exercism.org/tracks/python/exercises/proverb
 
 def proverb(*args, qualifier):
     if len(args) == 0:

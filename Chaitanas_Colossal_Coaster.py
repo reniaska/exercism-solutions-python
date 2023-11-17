@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/chaitanas-colossal-coaster
+# https://exercism.org/tracks/python/exercises/chaitanas-colossal-coaster
 """Functions to manage and organize queues at Chaitana's roller coaster."""
 
 

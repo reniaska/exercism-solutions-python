@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/space-age
+# https://exercism.org/tracks/python/exercises/space-age
 
 class SpaceAge:
     def __init__(self, seconds):

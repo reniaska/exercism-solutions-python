@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/word-count
+# https://exercism.org/tracks/python/exercises/word-count
 import re
 
 

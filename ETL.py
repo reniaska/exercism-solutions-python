@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/etl
+# https://exercism.org/tracks/python/exercises/etl
 
 
 def transform(legacy_data):

@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/pig-latin
+# https://exercism.org/tracks/python/exercises/pig-latin
 
 def translate_word(text):
     vowels = ['a', 'e', 'i', 'o', 'u']

@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/cater-waiter
+# https://exercism.org/tracks/python/exercises/cater-waiter
 """Functions for compiling dishes and ingredients for a catering company."""
 from sets_categories_data import (VEGAN,
                                   VEGETARIAN,

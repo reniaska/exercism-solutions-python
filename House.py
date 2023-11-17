@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/house
+# https://exercism.org/tracks/python/exercises/house
 
 CONTENTS = [
     ("house", "Jack built."),

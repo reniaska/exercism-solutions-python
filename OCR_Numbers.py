@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/ocr-numbers
+# https://exercism.org/tracks/python/exercises/ocr-numbers
 
 DIGITS = [[" _ ", "| |", "|_|", "   "],  #0
           ["   ", "  |", "  |", "   "],  #1

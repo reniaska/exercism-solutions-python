@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/pythagorean-triplet
+# https://exercism.org/tracks/python/exercises/pythagorean-triplet
 
 def triplets_with_sum(number):
     triangles = []

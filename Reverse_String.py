@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/reverse-string
+# https://exercism.org/tracks/python/exercises/reverse-string
 
 def reverse(text):
     reverse_str = ''

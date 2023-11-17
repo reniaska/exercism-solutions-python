@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/armstrong-numbers
+# https://exercism.org/tracks/python/exercises/armstrong-numbers
 
 def is_armstrong_number(number):
     digits_sum = 0

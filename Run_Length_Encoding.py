@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/run-length-encoding
+# https://exercism.org/tracks/python/exercises/run-length-encoding
 
 def decode(string):
     num = ''

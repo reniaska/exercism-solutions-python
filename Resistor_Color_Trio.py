@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/resistor-color-trio
+# https://exercism.org/tracks/python/exercises/resistor-color-trio
 
 res_colors = {"black": 0,
               "brown": 1,

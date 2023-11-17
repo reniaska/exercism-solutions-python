@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/darts
+# https://exercism.org/tracks/python/exercises/darts
 
 def score(x, y):
     distance = (abs(x) ** 2 + abs(y) ** 2) ** 0.5

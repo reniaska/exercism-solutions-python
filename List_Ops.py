@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/list-ops
+# https://exercism.org/tracks/python/exercises/list-ops
 
 def append(list1, list2):
     return list1 + list2

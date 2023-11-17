@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/protein-translation
+# https://exercism.org/tracks/python/exercises/protein-translation
 
 codons_proteins = {'AUG': 'Methionine',
                    'UUU': 'Phenylalanine', 'UUC': 'Phenylalanine',

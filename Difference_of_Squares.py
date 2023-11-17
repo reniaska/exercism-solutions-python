@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/difference-of-squares
+# https://exercism.org/tracks/python/exercises/difference-of-squares
 
 def square_of_sum(number):
     #  using formula (n/2)*(a1+an)

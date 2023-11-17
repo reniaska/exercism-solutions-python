@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/prime-factors
+# https://exercism.org/tracks/python/exercises/prime-factors
 
 def is_prime(number):
     if number <= 1:

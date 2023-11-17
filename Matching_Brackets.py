@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/matching-brackets
+# https://exercism.org/tracks/python/exercises/matching-brackets
 
 def is_paired(input_string):
     stack = []

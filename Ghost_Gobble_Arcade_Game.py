@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game
+# https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game
 """Functions for implementing the rules of the classic arcade game Pac-Man."""
 
 

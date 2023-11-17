@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/isogram
+# https://exercism.org/tracks/python/exercises/isogram
 
 def is_isogram(string):
     string = string.lower()

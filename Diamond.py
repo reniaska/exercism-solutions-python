@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/diamond
+# https://exercism.org/tracks/python/exercises/diamond
 
 def rows(letter):
     letters = list('ABCDEFGHIJKLMNOPQRSTUVWXYZ')

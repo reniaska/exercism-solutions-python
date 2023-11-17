@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/rna-transcription
+# https://exercism.org/tracks/python/exercises/rna-transcription
 
 def to_rna(dna_strand):
     DNA = 'ACGT'

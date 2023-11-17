@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/twelve-days
+# https://exercism.org/tracks/python/exercises/twelve-days
 
 DAYS = ('first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh',
         'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth')

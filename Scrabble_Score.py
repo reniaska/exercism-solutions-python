@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/scrabble-score
+# https://exercism.org/tracks/python/exercises/scrabble-score
 
 letter_values = {"AEIOULNRST": 1,
                  "DG": 2,

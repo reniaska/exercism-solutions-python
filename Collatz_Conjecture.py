@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/collatz-conjecture
+# https://exercism.org/tracks/python/exercises/collatz-conjecture
 
 def steps(number):
     num_steps = 0

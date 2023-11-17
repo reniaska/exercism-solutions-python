@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/currency-exchange
+# https://exercism.org/tracks/python/exercises/currency-exchange
 
 def exchange_money(budget, exchange_rate):
     """

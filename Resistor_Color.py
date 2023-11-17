@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/resistor-color
+# https://exercism.org/tracks/python/exercises/resistor-color
 
 resistors_colors = {"black" : 0,
                     "brown" : 1,

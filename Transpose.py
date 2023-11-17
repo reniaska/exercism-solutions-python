@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/transpose
+# https://exercism.org/tracks/python/exercises/transpose
 
 def transpose(lines):
     rows = lines.split('\n')

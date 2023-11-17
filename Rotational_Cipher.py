@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/rotational-cipher
+# https://exercism.org/tracks/python/exercises/rotational-cipher
 
 def rotate(text, key):
     plain = 'abcdefghijklmnopqrstuvwxyz'

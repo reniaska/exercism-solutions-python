@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/isbn-verifier
+# https://exercism.org/tracks/python/exercises/isbn-verifier
 
 def is_valid(isbn):
     isbn = isbn.replace('-', '')

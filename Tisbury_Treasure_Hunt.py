@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt
+# https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt
 """Functions to help Azara and Rui locate pirate treasure."""
 
 

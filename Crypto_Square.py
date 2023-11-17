@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/crypto-square
+# https://exercism.org/tracks/python/exercises/crypto-square
 
 def cipher_text(plain_text):
     plain_text = "".join([character.lower() for character in plain_text if character.isalnum()])

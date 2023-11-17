@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/meltdown-mitigation
+# https://exercism.org/tracks/python/exercises/meltdown-mitigation
 """Functions to prevent a nuclear meltdown."""
 
 

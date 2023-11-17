@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/series
+# https://exercism.org/tracks/python/exercises/series
 
 def slices(series, length):
     if length == 0:

@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/perfect-numbers
+# https://exercism.org/tracks/python/exercises/perfect-numbers
 
 def classify(number):
     """ A perfect number equals the sum of its positive divisors.

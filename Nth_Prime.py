@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/nth-prime
+# https://exercism.org/tracks/python/exercises/nth-prime
 
 def is_prime(number):
     if number <= 1:

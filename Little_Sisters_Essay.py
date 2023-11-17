@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/little-sisters-essay
+# https://exercism.org/tracks/python/exercises/little-sisters-essay
 """Functions to help edit essay homework using string manipulation."""
 
 

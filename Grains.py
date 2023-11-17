@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/grains
+# https://exercism.org/tracks/python/exercises/grains
 
 def square(number):
     if isinstance(number, int) and (number in range(1, 65)):
@@ -8,7 +8,7 @@ def square(number):
 
 
 def total():
-    total = 0
-    for i in range (1, 65):
-        total += square(i)
-    return total
+    tot = 0
+    for i in range(1, 65):
+        tot += square(i)
+    return tot

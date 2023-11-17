@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/sieve
+# https://exercism.org/tracks/python/exercises/sieve
 
 def primes(limit):
     numbers = set(range(2, limit + 1))

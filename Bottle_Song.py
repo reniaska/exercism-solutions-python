@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/bottle-song
+# https://exercism.org/tracks/python/exercises/bottle-song
 
 quantity = ["no",
             "One",

@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/making-the-grade
+# https://exercism.org/tracks/python/exercises/making-the-grade
 """Functions for organizing and calculating student exam scores."""
 
 

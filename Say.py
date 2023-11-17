@@ -1,10 +1,9 @@
-#https://exercism.org/tracks/python/exercises/say
+# https://exercism.org/tracks/python/exercises/say
 
 ones = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten',
         'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen',
-        'sixteen', 'seventeen', 'eighteen', 'ninteen']
-tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty',
-    'seventy', 'eighty', 'ninety']
+        'sixteen', 'seventeen', 'eighteen', 'nineteen']
+tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety']
 
 
 def say(number):

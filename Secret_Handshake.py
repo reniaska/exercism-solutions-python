@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/secret-handshake
+# https://exercism.org/tracks/python/exercises/secret-handshake
 
 def commands(binary_str):
     code = []

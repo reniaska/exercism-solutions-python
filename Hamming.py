@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/hamming
+# https://exercism.org/tracks/python/exercises/hamming
 
 def distance(strand_a, strand_b):
     dist = 0

@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/resistor-color-expert
+# https://exercism.org/tracks/python/exercises/resistor-color-expert
 
 res_colors = {"black": 0,
               "brown": 1,

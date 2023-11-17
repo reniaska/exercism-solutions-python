@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/black-jack
+# https://exercism.org/tracks/python/exercises/black-jack
 """Functions to help play and score a game of blackjack.
 
 How to play blackjack:    https://bicyclecards.com/how-to-play/blackjack/

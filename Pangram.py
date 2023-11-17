@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/pangram
+# https://exercism.org/tracks/python/exercises/pangram
 
 def is_pangram(sentence):
     letters = 'abcdefghijklmnopqrstuvwxyz'

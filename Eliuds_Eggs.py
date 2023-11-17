@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/pop-count
+# https://exercism.org/tracks/python/exercises/pop-count
 
 def egg_count(display_value):
     counter = 0

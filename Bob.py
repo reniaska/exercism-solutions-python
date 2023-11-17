@@ -1,4 +1,4 @@
-#https://exercism.org/tracks/python/exercises/bob
+# https://exercism.org/tracks/python/exercises/bob
 
 def response(hey_bob):
     if hey_bob.isspace() or len(hey_bob) == 0:
