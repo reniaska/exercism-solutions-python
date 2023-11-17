@@ -335,3 +335,8 @@ Details: https://exercism.org/tracks/python/exercises/cater-waiter
 Short description: You work for a company that makes an online, fantasy-survival game. Your task is to write the code that calculates the energy points that get awarded to players when they complete a level. The points awarded depend on two things: The level (a number) that the player completed and the base value of each magical item collected by the player during that level.
 
 Details: https://exercism.org/tracks/python/exercises/sum-of-multiples
+
+## Saddle Points:
+Short description: Your task is to find the potential trees where you could build your tree house. An acceptable tree will be the largest in its row, while being the smallest in its column. A grid might not have any good trees at all. Or it might have one, or even several.
+
+Details: https://exercism.org/tracks/python/exercises/saddle-points
