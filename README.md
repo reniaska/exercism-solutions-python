@@ -345,3 +345,13 @@ Details: https://exercism.org/tracks/python/exercises/saddle-points
 Short description: Imagine a bakery that has a holiday offer where you can buy two cookies for the price of one ("two-fer one!"). Your task is to determine what you will say as you give away the extra cookie. If your friend likes cookies, and is named Do-yun, then you will say: One for Do-yun, one for me. If your friend doesn't like cookies, you give the cookie to the next person in line at the bakery. Since you don't know their name, you will say you instead.
 
 Details: https://exercism.org/tracks/python/exercises/two-fer
+
+## Sieve
+Short description: Your task is to create a program that implements the Sieve of Eratosthenes algorithm to find prime numbers.
+
+Details: https://exercism.org/tracks/python/exercises/sieve
+
+## Pythagorean Triplet
+Short description: Given an input integer N, find all Pythagorean triplets for which a + b + c = N.
+
+Details: https://exercism.org/tracks/python/exercises/pythagorean-triplet
