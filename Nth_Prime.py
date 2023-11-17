@@ -1,5 +1,14 @@
 #https://exercism.org/tracks/python/exercises/nth-prime
 
+def is_prime(number):
+    if number <= 1:
+        return False
+    for factor in range(2, (int(number ** 0.5)) + 1):
+        if number % factor == 0:
+            return False
+    return True
+
+
 def prime(number):
     if number == 0:
         raise ValueError('there is no zeroth prime')
@@ -12,12 +21,3 @@ def prime(number):
         if is_prime(num):
             number -= 1
     return num
-
-
-def is_prime(number):
-    if number <= 1:
-        return False
-    for factor in range(2, (int(number ** 0.5)) + 1):
-        if number % factor == 0:
-            return False
-    return True

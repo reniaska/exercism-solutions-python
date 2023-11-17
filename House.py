@@ -15,15 +15,15 @@ CONTENTS = [
     ("horse and the hound and the horn", "belonged to")]
 
 
+def recite_verse(verse):
+    if verse == 1:
+        return CONTENTS[verse - 1][0] + " that " + CONTENTS[verse - 1][1]
+    return CONTENTS[verse-1][0] + " that " + CONTENTS[verse-1][1] + " the " + recite_verse(verse - 1)
+
+
 def recite(start_verse, end_verse):
     rhyme = []
     entry = "This is the "
     for verse in range(start_verse, end_verse + 1):
         rhyme.append(entry + (recite_verse(verse)))
     return rhyme
-
-
-def recite_verse(verse):
-    if verse == 1:
-        return CONTENTS[verse - 1][0] + " that " + CONTENTS[verse - 1][1]
-    return CONTENTS[verse-1][0] + " that " + CONTENTS[verse-1][1] + " the " + recite_verse(verse - 1)
