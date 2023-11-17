@@ -340,3 +340,8 @@ Details: https://exercism.org/tracks/python/exercises/sum-of-multiples
 Short description: Your task is to find the potential trees where you could build your tree house. An acceptable tree will be the largest in its row, while being the smallest in its column. A grid might not have any good trees at all. Or it might have one, or even several.
 
 Details: https://exercism.org/tracks/python/exercises/saddle-points
+
+## Two Fer
+Short description: Imagine a bakery that has a holiday offer where you can buy two cookies for the price of one ("two-fer one!"). Your task is to determine what you will say as you give away the extra cookie. If your friend likes cookies, and is named Do-yun, then you will say: One for Do-yun, one for me. If your friend doesn't like cookies, you give the cookie to the next person in line at the bakery. Since you don't know their name, you will say you instead.
+
+Details: https://exercism.org/tracks/python/exercises/two-fer
