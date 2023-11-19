@@ -1,5 +1,4 @@
 # https://exercism.org/tracks/python/exercises/matrix
-# https://exercism.org/tracks/python/exercises/matrix
 
 class Matrix:
     def __init__(self, matrix_string):
