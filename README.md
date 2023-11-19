@@ -375,3 +375,8 @@ Details: https://exercism.org/tracks/python/exercises/luhn
 Short description: For a game of Dungeons & Dragons, each player starts by generating a character they can play with. Write a random character generator that follows some rules.
 
 Details: https://exercism.org/tracks/python/exercises/dnd-character
+
+## Matrix
+Short description: Given a string representing a matrix of numbers, return the rows and columns of that matrix.
+
+Details: https://exercism.org/tracks/python/exercises/matrix
