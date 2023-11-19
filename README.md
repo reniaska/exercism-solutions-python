@@ -370,3 +370,8 @@ Details: https://exercism.org/tracks/python/exercises/ellens-alien-game
 Short description: Given a number determine whether or not it is valid per the Luhn formula. The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers, such as credit card numbers and Canadian Social Insurance Numbers.
 
 Details: https://exercism.org/tracks/python/exercises/luhn
+
+## D&D Character
+Short description: For a game of Dungeons & Dragons, each player starts by generating a character they can play with. Write a random character generator that follows some rules.
+
+Details: https://exercism.org/tracks/python/exercises/dnd-character
