@@ -386,3 +386,8 @@ Short description: Your task is to build a high-score component of the classic F
 
 Details: https://exercism.org/tracks/python/exercises/high-scores
 
+## Robot Name
+Short description: Manage robot factory settings. The first time you turn on a robot, a random name is generated in the format of two uppercase letters followed by three digits. Every once in a while we need to reset a robot to its factory settings, which means that its name gets wiped. The next time you ask, that robot will respond with a new random name. Your solution must ensure that every existing robot has a unique name.
+
+Details: https://exercism.org/tracks/python/exercises/robot-name/
+
