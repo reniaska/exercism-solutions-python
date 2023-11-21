@@ -395,3 +395,8 @@ Details: https://exercism.org/tracks/python/exercises/robot-name/
 Short description: Given a diagram, determine which plants each child in the kindergarten class is responsible for. Your class should implement a method called plants, which takes a student's name as an argument and returns the list of plant names belonging to that student.
 
 Details: https://exercism.org/tracks/python/exercises/kindergarten-garden
+
+## Phone Number
+Short description: Clean up user-entered phone numbers so that they can be sent SMS messages. Your task is to clean up differently formatted telephone numbers by removing punctuation and the country code (1) if present. Raise a ValueError for exceptions.
+
+Details: https://exercism.org/tracks/python/exercises/phone-number
