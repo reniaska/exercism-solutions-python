@@ -400,3 +400,8 @@ Details: https://exercism.org/tracks/python/exercises/kindergarten-garden
 Short description: Clean up user-entered phone numbers so that they can be sent SMS messages. Your task is to clean up differently formatted telephone numbers by removing punctuation and the country code (1) if present. Raise a ValueError for exceptions.
 
 Details: https://exercism.org/tracks/python/exercises/phone-number
+
+## Robot Simulator
+Short description: Write a robot simulator. The robots have three possible movements: turn right, turn left, advance. The robot receives a number of instructions, at which point the testing facility verifies the robot's new position, and in which direction it is pointing.
+
+Details: https://exercism.org/tracks/python/exercises/robot-simulator
