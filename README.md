@@ -391,3 +391,7 @@ Short description: Manage robot factory settings. The first time you turn on a r
 
 Details: https://exercism.org/tracks/python/exercises/robot-name/
 
+## Kindergarten Garden
+Short description: Given a diagram, determine which plants each child in the kindergarten class is responsible for. Your class should implement a method called plants, which takes a student's name as an argument and returns the list of plant names belonging to that student.
+
+Details: https://exercism.org/tracks/python/exercises/kindergarten-garden
